@@ -170,7 +170,3 @@ pytest tests/ -v
 
 ---
 
-## 📩 Submission Details
-- **Email:** `gilad@crowdwisdomtrading.com`
-- **Candidate:** Quantitative Data Scientist Intern Assessment
-- **Included Tokens & Actor IDs:** Configured in `.env` and documented in submission email.
